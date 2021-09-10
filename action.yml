@@ -1,7 +1,7 @@
-name: 'Allure report v2'
+name: 'Allure report simple'
 description: 'Generate Allure report for test suite'
 inputs:
-  results-dir:  # id of input
+  results-dir:
     description: 'Allure test result data dir'
     required: true
     default: 'allure-results'
