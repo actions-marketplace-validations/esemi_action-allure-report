@@ -10,7 +10,7 @@ Uses [allure-framework](https://github.com/allure-framework/allure2) to generate
 
 ### report-dir
 
-**Required** The relative path to the directory where Allure will write the generated report. Default `allure-results`.
+**Required** The relative path to the directory where Allure will write the generated report. Default `allure-report`.
 
 ## Building and running locally
 
