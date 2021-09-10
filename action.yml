@@ -1,5 +1,8 @@
 name: 'Allure report simple'
 description: 'Generate Allure report for test suite'
+branding:
+  icon: 'check-square'
+  color: 'purple'
 inputs:
   results-dir:
     description: 'Allure test result data dir'
